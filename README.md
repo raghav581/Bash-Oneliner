@@ -2054,7 +2054,7 @@ compgen -g
 
 ##### Show group of user
 ```bash
-group username
+groups username
 ```
 
 ##### Show uid, gid, group of user
