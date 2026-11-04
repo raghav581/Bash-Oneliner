@@ -3,6 +3,8 @@ name: "R01-T001 · Correct the 'Show group of user' entry"
 
 on:
   pull_request:
+    branches:
+      - work/**
   workflow_dispatch:
 
 permissions:
